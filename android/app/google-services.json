@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "958301721186",
+    "firebase_url": "https://first-app-7161c-default-rtdb.firebaseio.com",
+    "project_id": "first-app-7161c",
+    "storage_bucket": "first-app-7161c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958301721186:android:04888450ab014e7a68773b",
+        "android_client_info": {
+          "package_name": "com.example.fasum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958301721186-7u893kuqnq9h5imhkqljin6re6jd00v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_mv7sqJxjpaz5Pe70wM4WP3mzYLRhVuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958301721186-7u893kuqnq9h5imhkqljin6re6jd00v1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958301721186-6fhi161vretrj2mh34atq5b78kgvncd3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fasumApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958301721186:android:02f27ba9f8f55fb168773b",
+        "android_client_info": {
+          "package_name": "com.example.fasum_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958301721186-7u893kuqnq9h5imhkqljin6re6jd00v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_mv7sqJxjpaz5Pe70wM4WP3mzYLRhVuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958301721186-7u893kuqnq9h5imhkqljin6re6jd00v1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958301721186-6fhi161vretrj2mh34atq5b78kgvncd3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fasumApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
